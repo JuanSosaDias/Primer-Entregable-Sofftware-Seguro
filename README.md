@@ -1,6 +1,13 @@
 # Creación de Maquina Virtual
 
-Primero, comenzaremos descargando todo lo necesario para poder crear nuestra maquina virtual con Kali Linux.
+## Introducción y objetivo:
+En el mundo de la ciberseguridad, es fundamental contar con un ambiente de pruebas robusto y bien configurado para analizar aplicaciones de manera segura y efectiva, basicamente para proteger la información, ya que es equivalente a proteger el funcionamiento del negocio. 
+
+Este write-up tiene como objetivo documentar el proceso de creación y configuración de un ambiente de pruebas para aplicaciones, utilizando herramientas y tecnologías ampliamente reconocidas en el campo, como Kali Linux, Docker, y OWASP Juice Shop.
+
+A lo largo de este documento, detallaremos cada paso necesario para establecer este entorno, que será utilizado en futuras actividades y prácticas relacionadas con la seguridad informática. Desde la instalación de una máquina virtual con Kali Linux hasta la configuración de un proxy de interceptación y la ejecución de un contenedor Docker con OWASP Juice Shop, este write-up proporcionará una guía completa que podrá ser replicada por cualquier usuario interesado en el tema.
+
+### Primero, comenzaremos descargando todo lo necesario para poder crear nuestra maquina virtual con Kali Linux.
 1. [Descargar Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 2. [Descargar Kali Linux](https://www.kali.org/downloads/)
 
